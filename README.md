@@ -59,6 +59,6 @@ hello-java-maven/
     Set Goal: compile
     Trigger build and check logs for BUILD SUCCESS
 
-📸 Output
+4. **📸 Output**
     ```bash
     Hello, Jenkins + Maven!
